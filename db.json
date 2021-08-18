@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-08-16T21:07:37.046Z"
+    },
+    {
+      "id": 2,
+      "message": "Hard drive replaced on server 001",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-02-05T15:05:37.022Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
